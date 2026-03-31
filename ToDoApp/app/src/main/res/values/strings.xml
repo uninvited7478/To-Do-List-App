@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string name="delete_task_title">Delete Task</string>
+    <string name="delete_msg">Are you sure you want to delete %s?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear_content_description">Clear %s</string>
+    <string name="important_label">Important</string>
+    <string name="save">Save</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_desc">Description</string>
+    <string name="error_empty">Field cannot be empty!</string>
+    <string name="list_screen_title">My To-Do List</string>
+    <string name="add_screen_title">Add New Task</string>
+    <string name="edit_screen_title">Edit Task</string>
+</resources>
